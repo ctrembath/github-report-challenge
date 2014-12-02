@@ -9,4 +9,5 @@ class ReportCards < Sinatra::Base
     Time.now.to_s
     # erb :index
   end
+  
 end
