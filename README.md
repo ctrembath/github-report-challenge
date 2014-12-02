@@ -5,6 +5,8 @@ Github Profile Report
 <img src = http://img.shields.io/badge/API-with%20JS-brightgreen.svg>
 <img src = http://img.shields.io/badge/more-JS-orange.svg>
 <img src = http://img.shields.io/badge/JavaScript-MVC-red.svg>
+<img src = http://img.shields.io/badge/jQuery-%24-lightgrey.svg>
+<img src = http://img.shields.io/badge/Mustache-%7B%7D-blue.svg>
 </div>
 
 ===============================
