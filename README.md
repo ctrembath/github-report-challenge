@@ -7,7 +7,10 @@ Github Profile Report
 <img src = http://img.shields.io/badge/JavaScript-MVC-red.svg>
 </div>
 
-Week 6: Week 5: Consuming APIs with JavaScript and JavaScript MVC
+===============================
+
+
+##**Week 6: Week 5: Consuming APIs with JavaScript and JavaScript MVC**
 
 This week's project involves using JavaScript to consume data available from third parties over the network (e.g. Github API data accessed via Ajax) and using more advanced JavaScript Model View Controller (MVC) frameworks such as AngularJS.
 
